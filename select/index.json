@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Willy-Nilly GO!!",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T02:49:54.314324Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Willy-Nilly GO!!",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_Willy-Nilly_GO!!_SiLENT←NOiSE.txt"
+    }
+  ]
+}
